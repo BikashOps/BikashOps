@@ -105,7 +105,7 @@
 
 ### Show some ❤️ by starring some of the repositories!
 
-   <p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+   <p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50%">
 </div>
 
 
