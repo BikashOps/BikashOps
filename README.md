@@ -61,15 +61,54 @@
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
   </a>
-</p>
+  
+  </details>
+  
+  ## 📊 Github Stats (Expand to View) 
+  
+ <details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikashops&theme=2077" alt="bikashops" /></p>
+
+</details>
+
+  <details>
+  <summary><b>📈 My Top Languages</b></summary>
+
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bikashops&theme=aura" alt="bikashops" 
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bikashops&theme=aura" alt="bikashops" /></p>
+</details> 
+
+  </details>
+    <details>
+  <summary><b>📈 My Contributions</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikashops&theme=great_gatsby" alt="bikashops" /></p>
+ 
+
+</details>
+
+ 
+   
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+   
+## 📫 How to reach me? <img align="center" src="https://github.com/bikashops/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
+
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/bikashnayak521/) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Hashnode](https://bikashnayak.hashnode.dev/)v/) 🌐 <br>
+  ⦿ Shoot Me an [Email](mailto:bikashnayak521@gmail.com) 💌 <br>
+<!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
+
+ -->
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+   <p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</div>
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/bikashops/count.svg)
