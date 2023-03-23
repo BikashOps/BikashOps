@@ -13,8 +13,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikashops&theme=aura" alt="bikashops" /></p>
 
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMwYmJiMjI1NzdmZTUwYzdkZjFiNGE3OGFjOWNmZDMxMGE3MDlhMiZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300">
-
 ## :zap: Skills
 
    <a href="https://www.linux.org/" target="_blanfalse" />
