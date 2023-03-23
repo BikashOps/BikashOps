@@ -96,7 +96,7 @@
 ## 📫 How to reach me? <img align="center" src="https://github.com/bikashops/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/bikashnayak521/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Hashnode](https://bikashnayak.hashnode.dev/)v/) 🌐 <br>
+  ⦿ Follow me on [Hashnode](https://bikashnayak.hashnode.dev/) 🌐 <br>
   ⦿ Shoot Me an [Email](mailto:bikashnayak521@gmail.com) 💌 <br>
 <!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
 
