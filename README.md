@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=bikashops&label=Profile%20views&color=0e75b6&style=flat" alt="rishikeshops" /> </p>
+-->
 **BikashOps/BikashOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
