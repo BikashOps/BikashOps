@@ -50,6 +50,10 @@
   <a href="https://code.visualstudio.com/" target="_blank" >
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
   </a>
+ </a>
+  <a href="https://pages.github.com/" target="_blank" >
+   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="90" />
+  
   
   ### Monitoring
   
